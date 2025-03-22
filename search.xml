@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>YOLOV8笔记</title>
+      <link href="/2025/03/22/YOLOV8%E7%AC%94%E8%AE%B0/"/>
+      <url>/2025/03/22/YOLOV8%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="YOLOv8简介"><a href="#YOLOv8简介" class="headerlink" title="YOLOv8简介"></a>YOLOv8简介</h2><p>  YOLOv8网络模型于2023年被提出，相较于之前版本其精度等相关指标均有明显的提升。YOLOv8网络模型如图 1 所示，主要有输入、主干(Backbone)、颈部(Neck)和头部(Head)4部分组成。Backbone部分由5个卷积模块，4个特征融合模块(CSP bottleneck with 2 convolutions, C2f)和1个快速-空间金字塔池化层(spatial pyramid pooling-fast, SPPF)组成。相比于之前的版本，YOLOv8使用C2f模块代替卷积神经网络模块(concentrated-comprehensive convolution block, C3)，使其收敛的速度和效果都得到显著的提升。Neck部分采用是路径聚合网络(path aggregation network,PANet)，与特征金字塔网络 (feature pyramid network, FPN)单向传递不同，PANet是一个双向通路网络，使得顶层更容易接收到底层的信息。Head部分为解耦头结构，对回归与预测分支进行了分离。同时在Yolov8网络模型中采用了完全交并比(complete intersection overunion, CIoU)和分布焦点损失(distributional feature loss, DFL)等新的损失函数替代原有的损失函数, 实现了更有效的学习和收敛。<br>            <img src="/2025/03/22/YOLOV8%E7%AC%94%E8%AE%B0/YOLOv8%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84%E5%9B%BE.png" alt="图1. YOLOv8模型结构图.png" title="图1. YOLOv8模型结构图.png">            </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>now，停止幻想成功</title>
       <link href="/2025/03/20/now%EF%BC%8C%E5%81%9C%E6%AD%A2%E5%B9%BB%E6%83%B3%E6%88%90%E5%8A%9F/"/>
       <url>/2025/03/20/now%EF%BC%8C%E5%81%9C%E6%AD%A2%E5%B9%BB%E6%83%B3%E6%88%90%E5%8A%9F/</url>
