@@ -4,6 +4,471 @@
   
     
     <entry>
+      <title>Codebook-Empowered Analysis-Friendly Extreme Underwater Image Compression</title>
+      <link href="/2026/04/29/paper/2026-04-29-codebook-empowered-analysis-friendly-extreme-underwater-image-compression/"/>
+      <url>/2026/04/29/paper/2026-04-29-codebook-empowered-analysis-friendly-extreme-underwater-image-compression/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: Codebook-Empowered Analysis-Friendly Extreme Underwater Image Compression</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38041">https://ojs.aaai.org/index.php/AAAI/article/view/38041</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 Codebook-Empowered Analysis-Friendly Extreme Underwater Image Compression，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Correcting Quantization-Induced Gradient Mismatch in Neural Image Compression</title>
+      <link href="/2026/04/29/paper/2026-04-29-correcting-quantization-induced-gradient-mismatch-in-neural-image-compression/"/>
+      <url>/2026/04/29/paper/2026-04-29-correcting-quantization-induced-gradient-mismatch-in-neural-image-compression/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: Correcting Quantization-Induced Gradient Mismatch in Neural Image Compression</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37782">https://ojs.aaai.org/index.php/AAAI/article/view/37782</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 Correcting Quantization-Induced Gradient Mismatch in Neural Image Compression，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>DynaQuant: Dynamic Mixed-Precision Quantization for Learned Image Compression</title>
+      <link href="/2026/04/29/paper/2026-04-29-dynaquant-dynamic-mixed-precision-quantization-for-learned-image-compression/"/>
+      <url>/2026/04/29/paper/2026-04-29-dynaquant-dynamic-mixed-precision-quantization-for-learned-image-compression/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: DynaQuant: Dynamic Mixed-Precision Quantization for Learned Image Compression</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38464">https://ojs.aaai.org/index.php/AAAI/article/view/38464</a></li><li>Code: <a href="https://github.com/baoyu2020/DynaQuant">https://github.com/baoyu2020/DynaQuant</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 DynaQuant: Dynamic Mixed-Precision Quantization for Learned Image Compression，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression</title>
+      <link href="/2026/04/29/paper/2026-04-29-mrt-learning-compact-representations-with-mixed-rwkv-transformer-for-extreme-ima/"/>
+      <url>/2026/04/29/paper/2026-04-29-mrt-learning-compact-representations-with-mixed-rwkv-transformer-for-extreme-ima/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://arxiv.org/pdf/2511.06717">https://arxiv.org/pdf/2511.06717</a></li><li>Code: <a href="https://github.com/luke1453lh/MRT">https://github.com/luke1453lh/MRT</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Neural Video Compression with Reference Hierarchy</title>
+      <link href="/2026/04/29/paper/2026-04-29-neural-video-compression-with-reference-hierarchy/"/>
+      <url>/2026/04/29/paper/2026-04-29-neural-video-compression-with-reference-hierarchy/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: Neural Video Compression with Reference Hierarchy</li><li>会议: AAAI 2026</li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 Neural Video Compression with Reference Hierarchy，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression</title>
+      <link href="/2026/04/29/paper/2026-04-29-hcf-hierarchical-cascade-framework-for-distributed-multi-stage-image-compression/"/>
+      <url>/2026/04/29/paper/2026-04-29-hcf-hierarchical-cascade-framework-for-distributed-multi-stage-image-compression/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38467">https://ojs.aaai.org/index.php/AAAI/article/view/38467</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate–Distortion Awareness</title>
+      <link href="/2026/04/29/paper/2026-04-29-reinforced-rate-control-for-neural-video-compression-via-inter-frame-rate-distor/"/>
+      <url>/2026/04/29/paper/2026-04-29-reinforced-rate-control-for-neural-video-compression-via-inter-frame-rate-distor/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate–Distortion Awareness</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38480">https://ojs.aaai.org/index.php/AAAI/article/view/38480</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate–Distortion Awareness，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs</title>
+      <link href="/2026/04/29/paper/2026-04-29-sacodec-asymmetric-quantization-with-semantic-anchoring-for-low-bitrate-high-fid/"/>
+      <url>/2026/04/29/paper/2026-04-29-sacodec-asymmetric-quantization-with-semantic-anchoring-for-low-bitrate-high-fid/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/40308">https://ojs.aaai.org/index.php/AAAI/article/view/40308</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images</title>
+      <link href="/2026/04/29/paper/2026-04-29-smartsplat-feature-smart-gaussians-for-scalable-compression-of-ultra-high-resolu/"/>
+      <url>/2026/04/29/paper/2026-04-29-smartsplat-feature-smart-gaussians-for-scalable-compression-of-ultra-high-resolu/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37558">https://ojs.aaai.org/index.php/AAAI/article/view/37558</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SSCL: Adversarially Guided Image Compression via Semantic and Spectral Consistency Learning</title>
+      <link href="/2026/04/29/paper/2026-04-29-sscl-adversarially-guided-image-compression-via-semantic-and-spectral-consistenc/"/>
+      <url>/2026/04/29/paper/2026-04-29-sscl-adversarially-guided-image-compression-via-semantic-and-spectral-consistenc/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: SSCL: Adversarially Guided Image Compression via Semantic and Spectral Consistency Learning</li><li>会议: AAAI 2026</li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 SSCL: Adversarially Guided Image Compression via Semantic and Spectral Consistency Learning，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression</title>
+      <link href="/2026/04/29/paper/2026-04-29-steering-one-step-diffusion-model-with-fidelity-rich-decoder-for-fast-image-comp/"/>
+      <url>/2026/04/29/paper/2026-04-29-steering-one-step-diffusion-model-with-fidelity-rich-decoder-for-fast-image-comp/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://arxiv.org/pdf/2508.04979">https://arxiv.org/pdf/2508.04979</a></li><li>Code: <a href="https://github.com/zhengchen1999/SODEC">https://github.com/zhengchen1999/SODEC</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>The Last Byte: Learning Just Enough for Machine-Oriented Image Compression</title>
+      <link href="/2026/04/29/paper/2026-04-29-the-last-byte-learning-just-enough-for-machine-oriented-image-compression/"/>
+      <url>/2026/04/29/paper/2026-04-29-the-last-byte-learning-just-enough-for-machine-oriented-image-compression/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: The Last Byte: Learning Just Enough for Machine-Oriented Image Compression</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38635">https://ojs.aaai.org/index.php/AAAI/article/view/38635</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 The Last Byte: Learning Just Enough for Machine-Oriented Image Compression，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement</title>
+      <link href="/2026/04/29/paper/2026-04-29-towards-efficient-low-rate-image-compression-with-frequency-aware-diffusion-prio/"/>
+      <url>/2026/04/29/paper/2026-04-29-towards-efficient-low-rate-image-compression-with-frequency-aware-diffusion-prio/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://arxiv.org/pdf/2601.10373">https://arxiv.org/pdf/2601.10373</a></li><li>Code: <a href="https://github.com/Darc8-sun/DiffCR">https://github.com/Darc8-sun/DiffCR</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates</title>
+      <link href="/2026/04/29/paper/2026-04-29-t-gvc-trajectory-guided-generative-video-coding-at-ultra-low-bitrates/"/>
+      <url>/2026/04/29/paper/2026-04-29-t-gvc-trajectory-guided-generative-video-coding-at-ultra-low-bitrates/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38014">https://ojs.aaai.org/index.php/AAAI/article/view/38014</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Transform-Free Feature Coding via Entropy-Constrained Vector Quantization</title>
+      <link href="/2026/04/29/paper/2026-04-29-transform-free-feature-coding-via-entropy-constrained-vector-quantization/"/>
+      <url>/2026/04/29/paper/2026-04-29-transform-free-feature-coding-via-entropy-constrained-vector-quantization/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>自动抓取自 Learned-Image-Video-Compression 的 AAAI 2026 分区，并由 DeepSeek 生成中文摘要。</p></blockquote><h2 id="论文信息"><a href="#论文信息" class="headerlink" title="论文信息"></a>论文信息</h2><ul><li>标题: Transform-Free Feature Coding via Entropy-Constrained Vector Quantization</li><li>会议: AAAI 2026</li><li>Paper: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38474">https://ojs.aaai.org/index.php/AAAI/article/view/38474</a></li><li>Source list: <a href="https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026">https://github.com/cshw2021/Learned-Image-Video-Compression#AAAI2026</a></li></ul><h2 id="AI-摘要"><a href="#AI-摘要" class="headerlink" title="AI 摘要"></a>AI 摘要</h2><h3 id="一句话概览"><a href="#一句话概览" class="headerlink" title="一句话概览"></a>一句话概览</h3><p>这篇论文关注 Transform-Free Feature Coding via Entropy-Constrained Vector Quantization，主题属于 learned image&#x2F;video compression。</p><h3 id="阅读价值"><a href="#阅读价值" class="headerlink" title="阅读价值"></a>阅读价值</h3><ul><li>当前条目没有可抓取的摘要或论文链接。</li><li>配置 <code>DEEPSEEK_API_KEY</code> 后，脚本会调用 DeepSeek 基于可用元数据生成摘要。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> learning </category>
+          
+          <category> paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> paper </tag>
+            
+            <tag> learned compression </tag>
+            
+            <tag> AAAI 2026 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>配置clash遇到的问题和总结</title>
       <link href="/2025/03/20/%E9%85%8D%E7%BD%AEclash%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%92%8C%E6%80%BB%E7%BB%93/"/>
       <url>/2025/03/20/%E9%85%8D%E7%BD%AEclash%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%92%8C%E6%80%BB%E7%BB%93/</url>
